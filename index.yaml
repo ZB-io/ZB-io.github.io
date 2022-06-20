@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-20T12:31:07.506515+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ee0a03705e5b3742233dd9b07cd6459c9b436aa879dc95140730bcda5aed1816
+    name: app1
+    type: application
+    urls:
+    - https://github.com/ZB-io/helm-charts/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-20T12:31:07.808259+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 91ef1105f080620c6cd145a18496d202e8ea7e05a40660ad8e4356401622d528
+    name: app2
+    type: application
+    urls:
+    - https://github.com/ZB-io/helm-charts/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-20T12:31:07.808266+05:30"
