@@ -20,6 +20,6 @@ entries:
     name: app2
     type: application
     urls:
-    - https://github.com/ZB-io/helm-charts/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    - https://github.com/ZB-io/ZB-io.github.io/releases/download/app2-0.1.0/app2-0.1.0.tgz
     version: 0.1.0
 generated: "2022-06-20T12:31:07.808266+05:30"
